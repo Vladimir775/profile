@@ -153,6 +153,7 @@ svg path{
   /*background: #aaa;*/
   background: url(/profile/images/me.jpg);
   aspect-ratio: 13/16;
+  background-position: center 20%;
 }
 
 .socials{
@@ -268,5 +269,6 @@ footer{
   color: var(--text);
 
 }
+
 
 
