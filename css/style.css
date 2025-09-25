@@ -150,7 +150,8 @@ svg path{
 }
 
 .me{
-  background: #aaa;
+  /*background: #aaa;*/
+  background: url(/profile/images/me.jpg);
   aspect-ratio: 13/16;
 }
 
@@ -267,4 +268,5 @@ footer{
   color: var(--text);
 
 }
+
 
